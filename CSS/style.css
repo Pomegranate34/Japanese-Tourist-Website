@@ -1,0 +1,19 @@
+.bold {
+    font-weight: bold;
+}
+
+.container {
+    width: 600px;
+    background-color: white;
+    margin: auto;
+    padding: 10px 20px;
+}
+
+body {
+    background-color: #ea4858;
+    font-family: Quicksand;
+}
+
+img {
+    width: 600px;
+}
